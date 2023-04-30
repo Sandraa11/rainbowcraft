@@ -1,0 +1,109 @@
+{
+  "AdsController": {
+
+    "AdNetwork": "admob",
+
+    "AdMob_ID": "pub-3940256099942544",
+    "AdMob_Banner": "ca-app-pub-3940256099942544/6300978111",
+    "AdMob_InterstitialAd": "ca-app-pub-3940256099942544/1033173712",
+    "AdMob_Native": "ca-app-pub-3940256099942544/2247696110",
+    "AdMob_RewardAd": "ca-app-pub-3940256099942544/5224354917",
+
+
+  },
+
+
+
+
+  "Skins": [
+    {
+      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/25/among-us---red-21548388.png",
+      "texture": "https://www.minecraftskins.com/uploads/skins/2023/04/25/among-us---red-21548388.png",
+      "locked": false
+    },
+    {
+      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/27/itseleven-black-hole-skin-as-my-rainbow-variot-21552669.png",
+      "texture": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/25/among-us---red-21548388.png",
+      "locked": false
+    },
+    {
+      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2022/10/23/red-from-rainbow-friends-20979453.png",
+      "texture": "https://www.minecraftskins.com/uploads/skins/2022/10/23/red-from-rainbow-friends-20979453.png",
+      "locked": false
+    },
+    {
+      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2022/12/11/reds-skin-21133083.png",
+      "texture": "https://www.minecraftskins.com/uploads/skins/2022/12/11/reds-skin-21133083.png",
+      "locked": false
+    },
+    {
+      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2021/09/26/creepy-rainbow-man-18995852.png",
+      "texture": "https://www.minecraftskins.com/uploads/skins/2021/09/26/creepy-rainbow-man-18995852.png",
+      "locked": false
+    },
+    {
+      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/28/blue-soulfire-dancer-21555159.png",
+      "texture": "https://www.minecraftskins.com/uploads/skins/2023/04/28/blue-soulfire-dancer-21555159.png",
+      "locked": true
+    },
+    {
+      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/25/among-us-imposter-in-the-shadows-21548344.png",
+      "texture": "https://www.minecraftskins.com/uploads/skins/2023/04/25/among-us-imposter-in-the-shadows-21548344.png",
+      "locked": true
+    },
+    {
+      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/27/blue-from-rainbow-friends-21552732.png",
+      "texture": "https://www.minecraftskins.com/uploads/skins/2023/04/27/blue-from-rainbow-friends-21552732.png",
+      "locked": true
+    },
+    {
+      "preview": "https://www.minecraftskins.com/uploads/skins/2022/10/10/blue-20935128.png",
+      "texture": "https://www.minecraftskins.com/uploads/preview-skins/2022/10/10/blue-20935128.png",
+      "locked": true
+    },
+    {
+      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2022/11/30/blue-rainbow-freinds-21098266.png",
+      "texture": "https://www.minecraftskins.com/uploads/skins/2022/11/30/blue-rainbow-freinds-21098266.png",
+      "locked": true
+    },
+    {
+      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2022/08/19/blue--rainbow-freinds--20745844.png",
+      "texture": "https://www.minecraftskins.com/uploads/skins/2022/08/19/blue--rainbow-freinds--20745844.png",
+      "locked": true
+    },
+    {
+      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2021/02/24/rainbow-freinds-v2-0-16900122.png",
+      "texture": "https://www.minecraftskins.com/uploads/skins/2021/02/24/rainbow-freinds-v2-0-16900122.png",
+      "locked": true
+    }
+
+  ],
+
+
+  "AppsPromote": [
+    {
+      "name": "Minecraft PE skyblock",
+      "packageName": "com.andiqwer.skyblock_maps",
+      "icon": "https://play-lh.googleusercontent.com/_KVgzJrTgMAgtOVMWUtOTbJjFv2H8BVAzIWX73mTkZglztux4F0yHO0OH_L7auFf3A=w240-h480",
+      "download": "+100 K"
+    },
+    {
+      "name": "Houses Maps",
+      "packageName": "com.andiqwer.house_maps",
+      "icon": "https://play-lh.googleusercontent.com/bQsbA_haB-0iEsxZ6MdgH0fjtsmlQkMiSusNLybYrevbC1O6ksLhlqfL9MTCqOUWnEo=w240-h480",
+      "download": "+500 K"
+    },
+    {
+      "name": "Guns Mods",
+      "packageName": "com.AndiQwer.GunMods",
+      "icon": "https://play-lh.googleusercontent.com/LeOVlNtItLA87uqKnjvo0hjBEOLdMKNheAOYI40qiOERuFXfZLZ2LQ5U6bk9rbfj7pPC=w240-h480",
+      "download": "+1 Million"
+    },
+    {
+      "name": "Cars Mods",
+      "packageName": "com.andiqwer.car_mods",
+      "icon": "https://play-lh.googleusercontent.com/lnbR00xtm3QcQWCUf9N9i4fOZBK6M0AuczactBbOFUuo2DbRU3VS0x9yUqTvVtnFyg=w240-h480",
+      "download": "+50 Million"
+    }
+  ]
+}
