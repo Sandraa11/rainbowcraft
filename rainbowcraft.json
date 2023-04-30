@@ -1,13 +1,13 @@
 {
   "AdsController": {
       
-       "AdNetwork": "admob",
-
-    "AdMob_ID": "pub-5205399128526063",
-    "AdMob_Banner": "ca-app-pub-5205399128526063/1485530304",
-    "AdMob_InterstitialAd": "ca-app-pub-5205399128526063/9172448634",
-    "AdMob_Native": "ca-app-pub-5205399128526063/3920121958",
-    "AdMob_RewardAd": "ca-app-pub-5205399128526063/8620078000",
+    "AdNetwork"               : "admob",
+    
+    "AdMob_ID"                : "pub-3940256099942544",
+    "AdMob_Banner"            : "ca-app-pub-3940256099942544/6300978111",
+    "AdMob_InterstitialAd"    : "ca-app-pub-3940256099942544/1033173712",
+    "AdMob_Native"            : "ca-app-pub-3940256099942544/2247696110",
+    "AdMob_RewardAd"          : "ca-app-pub-3940256099942544/5224354917",
     
     "Facebook_Banner"         : "692961278482629_692963411815749",
     "Facebook_InterstitialAd" : "692961278482629_692963491815741",
@@ -56,61 +56,62 @@
   
   
   "Skins" :[
+      {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/15/g-r-e-e-n---r-e-f-l-e-c-t-i-o-n-21240247.png",
+          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/15/g-r-e-e-n---r-e-f-l-e-c-t-i-o-n-21240247.png",
+          "locked" : false
+      },
        {
-      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/25/among-us---red-21548388.png",
-      "texture": "https://www.minecraftskins.com/uploads/skins/2023/04/25/among-us---red-21548388.png",
-      "locked": false
-    },
-    {
-      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/27/itseleven-black-hole-skin-as-my-rainbow-variot-21552669.png",
-      "texture": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/25/among-us---red-21548388.png",
-      "locked": false
-    },
-    {
-      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2022/10/23/red-from-rainbow-friends-20979453.png",
-      "texture": "https://www.minecraftskins.com/uploads/skins/2022/10/23/red-from-rainbow-friends-20979453.png",
-      "locked": false
-    },
-    {
-      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2022/12/11/reds-skin-21133083.png",
-      "texture": "https://www.minecraftskins.com/uploads/skins/2022/12/11/reds-skin-21133083.png",
-      "locked": false
-    },
-    {
-      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2021/09/26/creepy-rainbow-man-18995852.png",
-      "texture": "https://www.minecraftskins.com/uploads/skins/2021/09/26/creepy-rainbow-man-18995852.png",
-      "locked": false
-    },
-    {
-      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/28/blue-soulfire-dancer-21555159.png",
-      "texture": "https://www.minecraftskins.com/uploads/skins/2023/04/28/blue-soulfire-dancer-21555159.png",
-      "locked": true
-    },
-    {
-      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/25/among-us-imposter-in-the-shadows-21548344.png",
-      "texture": "https://www.minecraftskins.com/uploads/skins/2023/04/25/among-us-imposter-in-the-shadows-21548344.png",
-      "locked": true
-    },
-    {
-      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/27/blue-from-rainbow-friends-21552732.png",
-      "texture": "https://www.minecraftskins.com/uploads/skins/2023/04/27/blue-from-rainbow-friends-21552732.png",
-      "locked": true
-    },
-    {
-      "preview": "https://www.minecraftskins.com/uploads/skins/2022/10/10/blue-20935128.png",
-      "texture": "https://www.minecraftskins.com/uploads/preview-skins/2022/10/10/blue-20935128.png",
-      "locked": true
-    },
-    {
-      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2022/11/30/blue-rainbow-freinds-21098266.png",
-      "texture": "https://www.minecraftskins.com/uploads/skins/2022/11/30/blue-rainbow-freinds-21098266.png",
-      "locked": true
-    },
-    {
-      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2022/08/19/blue--rainbow-freinds--20745844.png",
-      "texture": "https://www.minecraftskins.com/uploads/skins/2022/08/19/blue--rainbow-freinds--20745844.png",
-      "locked": true
-    },
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/15/among-us-hoody-but-duck-themed---duckiezog-21238194.png",
+          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/15/among-us-hoody-but-duck-themed---duckiezog-21238194.png",
+          "locked" : false
+      },
+       {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/13/spider-man--upgraded--fixed-21233255.png",
+          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/13/spider-man--upgraded--fixed-21233255.png",
+          "locked" : false
+      },
+       {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/15/-little-fires--21240825.png",
+          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/15/-little-fires--21240825.png",
+          "locked" : false
+      },
+      {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/14/superman-21236510.png",
+          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/14/superman-21236510.png",
+          "locked" : true
+      },
+      {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/13/batman-21232388.png",
+          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/13/batman-21232388.png",
+          "locked" : true
+      },
+      {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/04/patrik-batman-21204990.png",
+          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/04/patrik-batman-21204990.png",
+          "locked" : true
+      },
+      {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/13/magma-lava-spirit-21233659.png",
+          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/13/magma-lava-spirit-21233659.png",
+          "locked" : true
+      },
+      {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/15/creeper-girl-21241079.png",
+          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/15/creeper-girl-21241079.png",
+          "locked" : true
+      },
+      {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/15/bee-person--21241075.png",
+          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/15/bee-person--21241075.png",
+          "locked" : true
+      },
+      {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/15/blue-boy-21240831.png",
+          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/15/blue-boy-21240831.png",
+          "locked" : true
+      }
+      
       
       ],
   
