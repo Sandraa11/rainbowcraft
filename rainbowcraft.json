@@ -9,7 +9,25 @@
     "AdMob_Native": "ca-app-pub-3940256099942544/2247696110",
     "AdMob_RewardAd": "ca-app-pub-3940256099942544/5224354917",
 
+    
+    "Facebook_Banner"         : "",
+    "Facebook_InterstitialAd" : "",
+    "Facebook_Native"         : "",
+    "Facebook_RewardAd"       : "",
+    
+    "Applovin_Banner"         : "",
+    "Applovin_InterstitialAd" : "",
+    "Applovin_Native"         : "",
+    "Applovin_RewardAd"       : "",
 
+    "Unity_GameID"            : "",
+    "Unity_Banner"            : "",
+    "Unity_InterstitialAd"    : "",
+    "Unity_RewardAd"          : "",
+
+    "IronSourceKey"           : ""
+
+  
   },
 
 
